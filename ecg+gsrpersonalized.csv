@@ -1,0 +1,750 @@
+Arithmetic,ecg+gsr,2,yesNo,1.0
+Cry 7-2,ecg+gsr,2,yesNo,0.0
+Eating 3,ecg+gsr,2,yesNo,0.0
+Game 4,ecg+gsr,2,yesNo,0.0
+Ice Bucket 6,ecg+gsr,2,yesNo,0.0
+Prepare Speech,ecg+gsr,2,yesNo,1.0
+Social Conversation 5,ecg+gsr,2,yesNo,0.0
+Speech,ecg+gsr,2,yesNo,1.0
+Stroop 2,ecg+gsr,2,yesNo,0.0
+rest1,ecg+gsr,2,yesNo,0.0
+rest2,ecg+gsr,2,yesNo,0.0
+rest3,ecg+gsr,2,yesNo,0.0
+rest4,ecg+gsr,2,yesNo,0.0
+rest5,ecg+gsr,2,yesNo,0.0
+rest6,ecg+gsr,2,yesNo,0.0
+sing-a-song 1,ecg+gsr,2,yesNo,0.0
+Arithmetic,ecg+gsr,3,yesNo,1.0
+Cry 7-2,ecg+gsr,3,yesNo,0.0
+Eating 3,ecg+gsr,3,yesNo,0.0
+Game 4,ecg+gsr,3,yesNo,0.0
+Ice Bucket 6,ecg+gsr,3,yesNo,0.0
+Prepare Speech,ecg+gsr,3,yesNo,1.0
+Social Conversation 5,ecg+gsr,3,yesNo,0.0
+Speech,ecg+gsr,3,yesNo,1.0
+Stroop 2,ecg+gsr,3,yesNo,0.0
+rest1,ecg+gsr,3,yesNo,0.0
+rest2,ecg+gsr,3,yesNo,0.0
+rest3,ecg+gsr,3,yesNo,0.0
+rest4,ecg+gsr,3,yesNo,0.0
+rest5,ecg+gsr,3,yesNo,0.0
+rest6,ecg+gsr,3,yesNo,0.0
+sing-a-song 1,ecg+gsr,3,yesNo,0.83333333333333326
+Arithmetic,ecg+gsr,4,yesNo,0.0
+Cry 7-2,ecg+gsr,4,yesNo,0.0
+Eating 3,ecg+gsr,4,yesNo,0.0
+Game 4,ecg+gsr,4,yesNo,0.0
+Ice Bucket 6,ecg+gsr,4,yesNo,0.0
+Prepare Speech,ecg+gsr,4,yesNo,0.0
+Social Conversation 5,ecg+gsr,4,yesNo,0.0
+Speech,ecg+gsr,4,yesNo,0.0
+Stroop 2,ecg+gsr,4,yesNo,0.0
+rest1,ecg+gsr,4,yesNo,0.0
+rest2,ecg+gsr,4,yesNo,0.0
+rest3,ecg+gsr,4,yesNo,0.0
+rest4,ecg+gsr,4,yesNo,0.0
+rest5,ecg+gsr,4,yesNo,0.0
+rest6,ecg+gsr,4,yesNo,0.0
+sing-a-song 1,ecg+gsr,4,yesNo,0.0
+Arithmetic,ecg+gsr,6,yesNo,0.0
+Cry 7-2,ecg+gsr,6,yesNo,0.0
+Eating 3,ecg+gsr,6,yesNo,0.0
+Game 4,ecg+gsr,6,yesNo,0.0
+Ice Bucket 6,ecg+gsr,6,yesNo,0.0
+Prepare Speech,ecg+gsr,6,yesNo,0.0
+Social Conversation 5,ecg+gsr,6,yesNo,0.0
+Speech,ecg+gsr,6,yesNo,0.0
+Stroop 2,ecg+gsr,6,yesNo,0.0
+rest1,ecg+gsr,6,yesNo,0.0
+rest2,ecg+gsr,6,yesNo,0.0
+rest3,ecg+gsr,6,yesNo,0.0
+rest4,ecg+gsr,6,yesNo,0.0
+rest5,ecg+gsr,6,yesNo,0.0
+rest6,ecg+gsr,6,yesNo,0.0
+sing-a-song 1,ecg+gsr,6,yesNo,0.0
+Arithmetic,ecg+gsr,7,yesNo,1.0
+Cry 7-2,ecg+gsr,7,yesNo,0.0
+Eating 3,ecg+gsr,7,yesNo,0.0
+Game 4,ecg+gsr,7,yesNo,0.0
+Ice Bucket 6,ecg+gsr,7,yesNo,0.0
+Prepare Speech,ecg+gsr,7,yesNo,1.0
+Social Conversation 5,ecg+gsr,7,yesNo,0.0
+Speech,ecg+gsr,7,yesNo,1.0
+Stroop 2,ecg+gsr,7,yesNo,0.0
+rest1,ecg+gsr,7,yesNo,0.0
+rest2,ecg+gsr,7,yesNo,0.0
+rest3,ecg+gsr,7,yesNo,0.0
+rest4,ecg+gsr,7,yesNo,0.0
+rest5,ecg+gsr,7,yesNo,0.0
+rest6,ecg+gsr,7,yesNo,0.0
+sing-a-song 1,ecg+gsr,7,yesNo,0.0
+Arithmetic,ecg+gsr,9,yesNo,0.0
+Cry 7-2,ecg+gsr,9,yesNo,0.0
+Eating 3,ecg+gsr,9,yesNo,0.0
+Game 4,ecg+gsr,9,yesNo,0.0
+Ice Bucket 6,ecg+gsr,9,yesNo,0.0
+Prepare Speech,ecg+gsr,9,yesNo,0.0
+Social Conversation 5,ecg+gsr,9,yesNo,0.0
+Speech,ecg+gsr,9,yesNo,0.0
+Stroop 2,ecg+gsr,9,yesNo,0.0
+rest1,ecg+gsr,9,yesNo,0.0
+rest2,ecg+gsr,9,yesNo,0.0
+rest3,ecg+gsr,9,yesNo,0.0
+rest4,ecg+gsr,9,yesNo,0.0
+rest5,ecg+gsr,9,yesNo,0.0
+rest6,ecg+gsr,9,yesNo,0.0
+sing-a-song 1,ecg+gsr,9,yesNo,0.0
+Arithmetic,ecg+gsr,11,yesNo,1.0
+Cry 7-2,ecg+gsr,11,yesNo,1.0
+Eating 3,ecg+gsr,11,yesNo,0.0
+Game 4,ecg+gsr,11,yesNo,1.0
+Ice Bucket 6,ecg+gsr,11,yesNo,1.0
+Prepare Speech,ecg+gsr,11,yesNo,1.0
+Social Conversation 5,ecg+gsr,11,yesNo,0.0
+Speech,ecg+gsr,11,yesNo,1.0
+Stroop 2,ecg+gsr,11,yesNo,1.0
+rest1,ecg+gsr,11,yesNo,0.0
+rest2,ecg+gsr,11,yesNo,0.0
+rest3,ecg+gsr,11,yesNo,0.0
+rest4,ecg+gsr,11,yesNo,0.0
+rest5,ecg+gsr,11,yesNo,0.0
+rest6,ecg+gsr,11,yesNo,0.0
+sing-a-song 1,ecg+gsr,11,yesNo,1.0
+Arithmetic,ecg+gsr,13,yesNo,1.0
+Cry 7-2,ecg+gsr,13,yesNo,0.0
+Eating 3,ecg+gsr,13,yesNo,0.0
+Game 4,ecg+gsr,13,yesNo,0.0
+Ice Bucket 6,ecg+gsr,13,yesNo,0.0
+Prepare Speech,ecg+gsr,13,yesNo,1.0
+Social Conversation 5,ecg+gsr,13,yesNo,0.0
+Speech,ecg+gsr,13,yesNo,1.0
+Stroop 2,ecg+gsr,13,yesNo,0.0
+rest1,ecg+gsr,13,yesNo,0.0
+rest2,ecg+gsr,13,yesNo,0.57142857142857151
+rest3,ecg+gsr,13,yesNo,0.0
+rest4,ecg+gsr,13,yesNo,0.0
+rest5,ecg+gsr,13,yesNo,0.0
+rest6,ecg+gsr,13,yesNo,0.0
+sing-a-song 1,ecg+gsr,13,yesNo,0.0
+Arithmetic,ecg+gsr,14,yesNo,1.0
+Cry 7-2,ecg+gsr,14,yesNo,1.0
+Eating 3,ecg+gsr,14,yesNo,1.0
+Game 4,ecg+gsr,14,yesNo,1.0
+Ice Bucket 6,ecg+gsr,14,yesNo,0.0
+Prepare Speech,ecg+gsr,14,yesNo,0.5
+Social Conversation 5,ecg+gsr,14,yesNo,0.0
+Speech,ecg+gsr,14,yesNo,1.0
+Stroop 2,ecg+gsr,14,yesNo,0.0
+rest1,ecg+gsr,14,yesNo,0.0
+rest2,ecg+gsr,14,yesNo,1.0
+rest3,ecg+gsr,14,yesNo,0.0
+rest4,ecg+gsr,14,yesNo,0.0
+rest5,ecg+gsr,14,yesNo,0.0
+rest6,ecg+gsr,14,yesNo,1.0
+sing-a-song 1,ecg+gsr,14,yesNo,1.0
+Arithmetic,ecg+gsr,15,yesNo,0.0
+Cry 7-2,ecg+gsr,15,yesNo,1.0
+Eating 3,ecg+gsr,15,yesNo,0.0
+Game 4,ecg+gsr,15,yesNo,0.0
+Ice Bucket 6,ecg+gsr,15,yesNo,1.0
+Prepare Speech,ecg+gsr,15,yesNo,0.0
+Social Conversation 5,ecg+gsr,15,yesNo,0.0
+Speech,ecg+gsr,15,yesNo,0.0
+Stroop 2,ecg+gsr,15,yesNo,0.0
+rest1,ecg+gsr,15,yesNo,0.0
+rest2,ecg+gsr,15,yesNo,0.0
+rest3,ecg+gsr,15,yesNo,0.0
+rest4,ecg+gsr,15,yesNo,0.0
+rest5,ecg+gsr,15,yesNo,0.0
+rest6,ecg+gsr,15,yesNo,0.0
+sing-a-song 1,ecg+gsr,15,yesNo,0.0
+Arithmetic,ecg+gsr,16,yesNo,0.0
+Cry 7-2,ecg+gsr,16,yesNo,0.80000000000000004
+Eating 3,ecg+gsr,16,yesNo,0.0
+Game 4,ecg+gsr,16,yesNo,0.0
+Ice Bucket 6,ecg+gsr,16,yesNo,0.0
+Prepare Speech,ecg+gsr,16,yesNo,0.0
+Social Conversation 5,ecg+gsr,16,yesNo,0.0
+Speech,ecg+gsr,16,yesNo,0.7142857142857143
+Stroop 2,ecg+gsr,16,yesNo,0.0
+rest1,ecg+gsr,16,yesNo,0.0
+rest2,ecg+gsr,16,yesNo,0.33333333333333337
+rest3,ecg+gsr,16,yesNo,0.0
+rest4,ecg+gsr,16,yesNo,0.0
+rest5,ecg+gsr,16,yesNo,0.0
+rest6,ecg+gsr,16,yesNo,0.0
+sing-a-song 1,ecg+gsr,16,yesNo,0.83333333333333326
+Arithmetic,ecg+gsr,17,yesNo,0.0
+Cry 7-2,ecg+gsr,17,yesNo,0.0
+Eating 3,ecg+gsr,17,yesNo,0.0
+Game 4,ecg+gsr,17,yesNo,0.0
+Ice Bucket 6,ecg+gsr,17,yesNo,0.0
+Prepare Speech,ecg+gsr,17,yesNo,0.0
+Social Conversation 5,ecg+gsr,17,yesNo,0.0
+Speech,ecg+gsr,17,yesNo,0.0
+Stroop 2,ecg+gsr,17,yesNo,0.0
+rest1,ecg+gsr,17,yesNo,0.0
+rest2,ecg+gsr,17,yesNo,0.0
+rest3,ecg+gsr,17,yesNo,0.0
+rest4,ecg+gsr,17,yesNo,0.0
+rest5,ecg+gsr,17,yesNo,0.0
+rest6,ecg+gsr,17,yesNo,0.0
+sing-a-song 1,ecg+gsr,17,yesNo,0.0
+Arithmetic,ecg+gsr,2,average,1.0
+Cry 7-2,ecg+gsr,2,average,0.0
+Eating 3,ecg+gsr,2,average,0.0
+Game 4,ecg+gsr,2,average,0.0
+Ice Bucket 6,ecg+gsr,2,average,0.0
+Prepare Speech,ecg+gsr,2,average,1.0
+Social Conversation 5,ecg+gsr,2,average,0.0
+Speech,ecg+gsr,2,average,1.0
+Stroop 2,ecg+gsr,2,average,0.0
+rest1,ecg+gsr,2,average,0.0
+rest2,ecg+gsr,2,average,0.0
+rest3,ecg+gsr,2,average,0.0
+rest4,ecg+gsr,2,average,0.0
+rest5,ecg+gsr,2,average,0.0
+rest6,ecg+gsr,2,average,0.0
+sing-a-song 1,ecg+gsr,2,average,0.0
+Arithmetic,ecg+gsr,3,average,1.0
+Cry 7-2,ecg+gsr,3,average,0.0
+Eating 3,ecg+gsr,3,average,0.0
+Game 4,ecg+gsr,3,average,0.0
+Ice Bucket 6,ecg+gsr,3,average,0.0
+Prepare Speech,ecg+gsr,3,average,1.0
+Social Conversation 5,ecg+gsr,3,average,0.0
+Speech,ecg+gsr,3,average,1.0
+Stroop 2,ecg+gsr,3,average,0.0
+rest1,ecg+gsr,3,average,0.0
+rest2,ecg+gsr,3,average,0.0
+rest3,ecg+gsr,3,average,0.0
+rest4,ecg+gsr,3,average,0.0
+rest5,ecg+gsr,3,average,0.0
+rest6,ecg+gsr,3,average,0.0
+sing-a-song 1,ecg+gsr,3,average,0.83333333333333326
+Arithmetic,ecg+gsr,4,average,0.0
+Cry 7-2,ecg+gsr,4,average,0.0
+Eating 3,ecg+gsr,4,average,0.0
+Game 4,ecg+gsr,4,average,0.0
+Ice Bucket 6,ecg+gsr,4,average,0.0
+Prepare Speech,ecg+gsr,4,average,0.0
+Social Conversation 5,ecg+gsr,4,average,0.0
+Speech,ecg+gsr,4,average,0.0
+Stroop 2,ecg+gsr,4,average,0.0
+rest1,ecg+gsr,4,average,0.0
+rest2,ecg+gsr,4,average,0.0
+rest3,ecg+gsr,4,average,0.0
+rest4,ecg+gsr,4,average,0.0
+rest5,ecg+gsr,4,average,0.0
+rest6,ecg+gsr,4,average,0.0
+sing-a-song 1,ecg+gsr,4,average,0.0
+Arithmetic,ecg+gsr,6,average,0.0
+Cry 7-2,ecg+gsr,6,average,0.0
+Eating 3,ecg+gsr,6,average,0.0
+Game 4,ecg+gsr,6,average,0.0
+Ice Bucket 6,ecg+gsr,6,average,0.0
+Prepare Speech,ecg+gsr,6,average,0.0
+Social Conversation 5,ecg+gsr,6,average,0.0
+Speech,ecg+gsr,6,average,0.0
+Stroop 2,ecg+gsr,6,average,0.0
+rest1,ecg+gsr,6,average,0.0
+rest2,ecg+gsr,6,average,0.0
+rest3,ecg+gsr,6,average,0.0
+rest4,ecg+gsr,6,average,0.0
+rest5,ecg+gsr,6,average,0.0
+rest6,ecg+gsr,6,average,0.0
+sing-a-song 1,ecg+gsr,6,average,0.0
+Arithmetic,ecg+gsr,7,average,0.0
+Cry 7-2,ecg+gsr,7,average,0.0
+Eating 3,ecg+gsr,7,average,0.0
+Game 4,ecg+gsr,7,average,0.0
+Ice Bucket 6,ecg+gsr,7,average,0.0
+Prepare Speech,ecg+gsr,7,average,0.0
+Social Conversation 5,ecg+gsr,7,average,0.0
+Speech,ecg+gsr,7,average,0.0
+Stroop 2,ecg+gsr,7,average,0.0
+rest1,ecg+gsr,7,average,0.0
+rest2,ecg+gsr,7,average,0.0
+rest3,ecg+gsr,7,average,0.0
+rest4,ecg+gsr,7,average,0.0
+rest5,ecg+gsr,7,average,0.0
+rest6,ecg+gsr,7,average,0.0
+sing-a-song 1,ecg+gsr,7,average,0.0
+Arithmetic,ecg+gsr,9,average,0.0
+Cry 7-2,ecg+gsr,9,average,0.0
+Eating 3,ecg+gsr,9,average,0.0
+Game 4,ecg+gsr,9,average,0.0
+Ice Bucket 6,ecg+gsr,9,average,0.0
+Prepare Speech,ecg+gsr,9,average,0.0
+Social Conversation 5,ecg+gsr,9,average,0.0
+Speech,ecg+gsr,9,average,0.0
+Stroop 2,ecg+gsr,9,average,0.0
+rest1,ecg+gsr,9,average,0.0
+rest2,ecg+gsr,9,average,0.0
+rest3,ecg+gsr,9,average,0.0
+rest4,ecg+gsr,9,average,0.0
+rest5,ecg+gsr,9,average,0.0
+rest6,ecg+gsr,9,average,0.0
+sing-a-song 1,ecg+gsr,9,average,0.0
+Arithmetic,ecg+gsr,11,average,0.0
+Cry 7-2,ecg+gsr,11,average,0.0
+Eating 3,ecg+gsr,11,average,0.0
+Game 4,ecg+gsr,11,average,0.0
+Ice Bucket 6,ecg+gsr,11,average,0.0
+Prepare Speech,ecg+gsr,11,average,0.0
+Social Conversation 5,ecg+gsr,11,average,0.0
+Speech,ecg+gsr,11,average,0.0
+Stroop 2,ecg+gsr,11,average,0.0
+rest1,ecg+gsr,11,average,0.0
+rest2,ecg+gsr,11,average,0.0
+rest3,ecg+gsr,11,average,0.0
+rest4,ecg+gsr,11,average,0.0
+rest5,ecg+gsr,11,average,0.0
+rest6,ecg+gsr,11,average,0.0
+sing-a-song 1,ecg+gsr,11,average,0.0
+Arithmetic,ecg+gsr,13,average,1.0
+Cry 7-2,ecg+gsr,13,average,0.0
+Eating 3,ecg+gsr,13,average,1.0
+Game 4,ecg+gsr,13,average,0.0
+Ice Bucket 6,ecg+gsr,13,average,0.0
+Prepare Speech,ecg+gsr,13,average,1.0
+Social Conversation 5,ecg+gsr,13,average,0.0
+Speech,ecg+gsr,13,average,1.0
+Stroop 2,ecg+gsr,13,average,0.0
+rest1,ecg+gsr,13,average,0.0
+rest2,ecg+gsr,13,average,0.0
+rest3,ecg+gsr,13,average,0.33333333333333337
+rest4,ecg+gsr,13,average,0.0
+rest5,ecg+gsr,13,average,0.0
+rest6,ecg+gsr,13,average,0.0
+sing-a-song 1,ecg+gsr,13,average,0.0
+Arithmetic,ecg+gsr,14,average,0.80000000000000004
+Cry 7-2,ecg+gsr,14,average,0.80000000000000004
+Eating 3,ecg+gsr,14,average,0.0
+Game 4,ecg+gsr,14,average,1.0
+Ice Bucket 6,ecg+gsr,14,average,0.0
+Prepare Speech,ecg+gsr,14,average,0.0
+Social Conversation 5,ecg+gsr,14,average,0.0
+Speech,ecg+gsr,14,average,0.7142857142857143
+Stroop 2,ecg+gsr,14,average,0.0
+rest1,ecg+gsr,14,average,0.0
+rest2,ecg+gsr,14,average,0.0
+rest3,ecg+gsr,14,average,0.0
+rest4,ecg+gsr,14,average,0.0
+rest5,ecg+gsr,14,average,0.33333333333333337
+rest6,ecg+gsr,14,average,0.0
+sing-a-song 1,ecg+gsr,14,average,0.92307692307692302
+Arithmetic,ecg+gsr,15,average,0.0
+Cry 7-2,ecg+gsr,15,average,0.0
+Eating 3,ecg+gsr,15,average,0.0
+Game 4,ecg+gsr,15,average,0.0
+Ice Bucket 6,ecg+gsr,15,average,0.5
+Prepare Speech,ecg+gsr,15,average,0.0
+Social Conversation 5,ecg+gsr,15,average,0.0
+Speech,ecg+gsr,15,average,0.0
+Stroop 2,ecg+gsr,15,average,0.0
+rest1,ecg+gsr,15,average,0.0
+rest2,ecg+gsr,15,average,0.0
+rest3,ecg+gsr,15,average,0.0
+rest4,ecg+gsr,15,average,0.0
+rest5,ecg+gsr,15,average,0.0
+rest6,ecg+gsr,15,average,0.0
+sing-a-song 1,ecg+gsr,15,average,0.0
+Arithmetic,ecg+gsr,16,average,1.0
+Cry 7-2,ecg+gsr,16,average,1.0
+Eating 3,ecg+gsr,16,average,0.0
+Game 4,ecg+gsr,16,average,1.0
+Ice Bucket 6,ecg+gsr,16,average,0.74999999999999989
+Prepare Speech,ecg+gsr,16,average,0.61538461538461531
+Social Conversation 5,ecg+gsr,16,average,0.25
+Speech,ecg+gsr,16,average,1.0
+Stroop 2,ecg+gsr,16,average,1.0
+rest1,ecg+gsr,16,average,0.0
+rest2,ecg+gsr,16,average,0.0
+rest3,ecg+gsr,16,average,0.0
+rest4,ecg+gsr,16,average,0.0
+rest5,ecg+gsr,16,average,0.0
+rest6,ecg+gsr,16,average,0.0
+sing-a-song 1,ecg+gsr,16,average,1.0
+Arithmetic,ecg+gsr,17,average,0.0
+Cry 7-2,ecg+gsr,17,average,0.0
+Eating 3,ecg+gsr,17,average,0.0
+Game 4,ecg+gsr,17,average,0.0
+Ice Bucket 6,ecg+gsr,17,average,0.0
+Prepare Speech,ecg+gsr,17,average,0.0
+Social Conversation 5,ecg+gsr,17,average,0.0
+Speech,ecg+gsr,17,average,0.0
+Stroop 2,ecg+gsr,17,average,0.0
+rest1,ecg+gsr,17,average,0.0
+rest2,ecg+gsr,17,average,0.0
+rest3,ecg+gsr,17,average,0.0
+rest4,ecg+gsr,17,average,0.0
+rest5,ecg+gsr,17,average,0.0
+rest6,ecg+gsr,17,average,0.0
+sing-a-song 1,ecg+gsr,17,average,0.0
+Arithmetic,ecg+gsr,2,pss,1.0
+Cry 7-2,ecg+gsr,2,pss,1.0
+Eating 3,ecg+gsr,2,pss,0.0
+Game 4,ecg+gsr,2,pss,0.0
+Ice Bucket 6,ecg+gsr,2,pss,1.0
+Prepare Speech,ecg+gsr,2,pss,1.0
+Social Conversation 5,ecg+gsr,2,pss,0.0
+Speech,ecg+gsr,2,pss,1.0
+Stroop 2,ecg+gsr,2,pss,0.0
+rest1,ecg+gsr,2,pss,1.0
+rest2,ecg+gsr,2,pss,1.0
+rest3,ecg+gsr,2,pss,0.0
+rest4,ecg+gsr,2,pss,0.0
+rest5,ecg+gsr,2,pss,0.0
+rest6,ecg+gsr,2,pss,0.0
+sing-a-song 1,ecg+gsr,2,pss,0.44444444444444448
+Arithmetic,ecg+gsr,3,pss,0.0
+Cry 7-2,ecg+gsr,3,pss,0.0
+Eating 3,ecg+gsr,3,pss,0.0
+Game 4,ecg+gsr,3,pss,0.0
+Ice Bucket 6,ecg+gsr,3,pss,0.0
+Prepare Speech,ecg+gsr,3,pss,0.0
+Social Conversation 5,ecg+gsr,3,pss,0.0
+Speech,ecg+gsr,3,pss,0.0
+Stroop 2,ecg+gsr,3,pss,0.0
+rest1,ecg+gsr,3,pss,0.0
+rest2,ecg+gsr,3,pss,0.0
+rest3,ecg+gsr,3,pss,0.0
+rest4,ecg+gsr,3,pss,0.0
+rest5,ecg+gsr,3,pss,0.0
+rest6,ecg+gsr,3,pss,0.0
+sing-a-song 1,ecg+gsr,3,pss,0.0
+Arithmetic,ecg+gsr,4,pss,0.0
+Cry 7-2,ecg+gsr,4,pss,0.0
+Eating 3,ecg+gsr,4,pss,0.0
+Game 4,ecg+gsr,4,pss,0.0
+Ice Bucket 6,ecg+gsr,4,pss,0.0
+Prepare Speech,ecg+gsr,4,pss,0.0
+Social Conversation 5,ecg+gsr,4,pss,0.0
+Speech,ecg+gsr,4,pss,0.0
+Stroop 2,ecg+gsr,4,pss,0.0
+rest1,ecg+gsr,4,pss,0.0
+rest2,ecg+gsr,4,pss,0.0
+rest3,ecg+gsr,4,pss,0.0
+rest4,ecg+gsr,4,pss,0.0
+rest5,ecg+gsr,4,pss,0.0
+rest6,ecg+gsr,4,pss,0.0
+sing-a-song 1,ecg+gsr,4,pss,0.0
+Arithmetic,ecg+gsr,6,pss,1.0
+Cry 7-2,ecg+gsr,6,pss,0.0
+Eating 3,ecg+gsr,6,pss,0.0
+Game 4,ecg+gsr,6,pss,0.0
+Ice Bucket 6,ecg+gsr,6,pss,0.0
+Prepare Speech,ecg+gsr,6,pss,1.0
+Social Conversation 5,ecg+gsr,6,pss,0.0
+Speech,ecg+gsr,6,pss,1.0
+Stroop 2,ecg+gsr,6,pss,0.0
+rest1,ecg+gsr,6,pss,0.0
+rest2,ecg+gsr,6,pss,0.0
+rest3,ecg+gsr,6,pss,0.0
+rest4,ecg+gsr,6,pss,0.0
+rest5,ecg+gsr,6,pss,0.0
+rest6,ecg+gsr,6,pss,0.33333333333333337
+sing-a-song 1,ecg+gsr,6,pss,0.83333333333333326
+Cry 7-2,ecg+gsr,7,pss,0.0
+Eating 3,ecg+gsr,7,pss,0.0
+Game 4,ecg+gsr,7,pss,0.0
+Ice Bucket 6,ecg+gsr,7,pss,0.0
+Prepare Speech,ecg+gsr,7,pss,0.0
+Social Conversation 5,ecg+gsr,7,pss,0.0
+Speech,ecg+gsr,7,pss,0.0
+Stroop 2,ecg+gsr,7,pss,0.0
+rest1,ecg+gsr,7,pss,0.0
+rest2,ecg+gsr,7,pss,0.0
+rest3,ecg+gsr,7,pss,0.0
+rest4,ecg+gsr,7,pss,0.0
+rest5,ecg+gsr,7,pss,0.0
+rest6,ecg+gsr,7,pss,0.0
+sing-a-song 1,ecg+gsr,7,pss,0.0
+Arithmetic,ecg+gsr,9,pss,0.0
+Cry 7-2,ecg+gsr,9,pss,0.0
+Eating 3,ecg+gsr,9,pss,0.0
+Game 4,ecg+gsr,9,pss,0.0
+Ice Bucket 6,ecg+gsr,9,pss,0.0
+Prepare Speech,ecg+gsr,9,pss,0.0
+Social Conversation 5,ecg+gsr,9,pss,0.0
+Speech,ecg+gsr,9,pss,0.0
+Stroop 2,ecg+gsr,9,pss,0.0
+rest1,ecg+gsr,9,pss,0.0
+rest2,ecg+gsr,9,pss,0.0
+rest3,ecg+gsr,9,pss,0.0
+rest4,ecg+gsr,9,pss,0.0
+rest5,ecg+gsr,9,pss,0.0
+rest6,ecg+gsr,9,pss,0.0
+sing-a-song 1,ecg+gsr,9,pss,0.0
+Arithmetic,ecg+gsr,11,pss,0.0
+Cry 7-2,ecg+gsr,11,pss,0.0
+Eating 3,ecg+gsr,11,pss,0.0
+Game 4,ecg+gsr,11,pss,0.0
+Ice Bucket 6,ecg+gsr,11,pss,0.0
+Prepare Speech,ecg+gsr,11,pss,0.0
+Social Conversation 5,ecg+gsr,11,pss,0.0
+Speech,ecg+gsr,11,pss,0.0
+Stroop 2,ecg+gsr,11,pss,0.0
+rest1,ecg+gsr,11,pss,0.0
+rest2,ecg+gsr,11,pss,0.0
+rest3,ecg+gsr,11,pss,0.0
+rest4,ecg+gsr,11,pss,0.0
+rest5,ecg+gsr,11,pss,0.0
+rest6,ecg+gsr,11,pss,0.0
+sing-a-song 1,ecg+gsr,11,pss,0.0
+Arithmetic,ecg+gsr,13,pss,1.0
+Cry 7-2,ecg+gsr,13,pss,1.0
+Eating 3,ecg+gsr,13,pss,1.0
+Game 4,ecg+gsr,13,pss,1.0
+Prepare Speech,ecg+gsr,13,pss,1.0
+Social Conversation 5,ecg+gsr,13,pss,1.0
+Speech,ecg+gsr,13,pss,1.0
+Stroop 2,ecg+gsr,13,pss,1.0
+rest1,ecg+gsr,13,pss,1.0
+rest2,ecg+gsr,13,pss,1.0
+rest3,ecg+gsr,13,pss,1.0
+rest4,ecg+gsr,13,pss,1.0
+rest5,ecg+gsr,13,pss,1.0
+rest6,ecg+gsr,13,pss,1.0
+sing-a-song 1,ecg+gsr,13,pss,1.0
+Arithmetic,ecg+gsr,14,pss,1.0
+Cry 7-2,ecg+gsr,14,pss,1.0
+Eating 3,ecg+gsr,14,pss,1.0
+Game 4,ecg+gsr,14,pss,1.0
+Ice Bucket 6,ecg+gsr,14,pss,1.0
+Prepare Speech,ecg+gsr,14,pss,1.0
+Social Conversation 5,ecg+gsr,14,pss,1.0
+Speech,ecg+gsr,14,pss,1.0
+Stroop 2,ecg+gsr,14,pss,0.0
+rest1,ecg+gsr,14,pss,1.0
+rest2,ecg+gsr,14,pss,0.0
+rest3,ecg+gsr,14,pss,0.0
+rest4,ecg+gsr,14,pss,0.0
+rest5,ecg+gsr,14,pss,1.0
+rest6,ecg+gsr,14,pss,1.0
+sing-a-song 1,ecg+gsr,14,pss,1.0
+Arithmetic,ecg+gsr,15,pss,0.0
+Cry 7-2,ecg+gsr,15,pss,0.0
+Eating 3,ecg+gsr,15,pss,0.0
+Game 4,ecg+gsr,15,pss,0.0
+Ice Bucket 6,ecg+gsr,15,pss,0.5
+Prepare Speech,ecg+gsr,15,pss,0.0
+Social Conversation 5,ecg+gsr,15,pss,0.0
+Speech,ecg+gsr,15,pss,0.0
+Stroop 2,ecg+gsr,15,pss,0.0
+rest1,ecg+gsr,15,pss,0.0
+rest2,ecg+gsr,15,pss,0.0
+rest3,ecg+gsr,15,pss,0.0
+rest4,ecg+gsr,15,pss,0.0
+rest5,ecg+gsr,15,pss,0.0
+rest6,ecg+gsr,15,pss,0.0
+sing-a-song 1,ecg+gsr,15,pss,0.0
+Arithmetic,ecg+gsr,16,pss,1.0
+Cry 7-2,ecg+gsr,16,pss,0.0
+Eating 3,ecg+gsr,16,pss,0.0
+Game 4,ecg+gsr,16,pss,0.92307692307692302
+Ice Bucket 6,ecg+gsr,16,pss,0.0
+Prepare Speech,ecg+gsr,16,pss,0.0
+Social Conversation 5,ecg+gsr,16,pss,0.0
+Speech,ecg+gsr,16,pss,0.94117647058823528
+Stroop 2,ecg+gsr,16,pss,0.0
+rest1,ecg+gsr,16,pss,0.0
+rest2,ecg+gsr,16,pss,0.0
+rest3,ecg+gsr,16,pss,0.0
+rest4,ecg+gsr,16,pss,0.0
+rest5,ecg+gsr,16,pss,0.0
+rest6,ecg+gsr,16,pss,0.0
+sing-a-song 1,ecg+gsr,16,pss,0.83333333333333326
+Arithmetic,ecg+gsr,17,pss,0.0
+Cry 7-2,ecg+gsr,17,pss,0.0
+Eating 3,ecg+gsr,17,pss,0.0
+Game 4,ecg+gsr,17,pss,0.0
+Ice Bucket 6,ecg+gsr,17,pss,0.0
+Prepare Speech,ecg+gsr,17,pss,0.0
+Social Conversation 5,ecg+gsr,17,pss,0.0
+Speech,ecg+gsr,17,pss,0.0
+Stroop 2,ecg+gsr,17,pss,0.0
+rest1,ecg+gsr,17,pss,0.0
+rest2,ecg+gsr,17,pss,0.0
+rest3,ecg+gsr,17,pss,0.0
+rest4,ecg+gsr,17,pss,0.0
+rest5,ecg+gsr,17,pss,0.0
+rest6,ecg+gsr,17,pss,0.0
+sing-a-song 1,ecg+gsr,17,pss,0.0
+Arithmetic,ecg+gsr,2,consensus,1.0
+Cry 7-2,ecg+gsr,2,consensus,0.0
+Eating 3,ecg+gsr,2,consensus,0.0
+Game 4,ecg+gsr,2,consensus,0.0
+Ice Bucket 6,ecg+gsr,2,consensus,0.0
+Prepare Speech,ecg+gsr,2,consensus,1.0
+Social Conversation 5,ecg+gsr,2,consensus,0.0
+Speech,ecg+gsr,2,consensus,1.0
+Stroop 2,ecg+gsr,2,consensus,0.0
+rest1,ecg+gsr,2,consensus,0.0
+rest2,ecg+gsr,2,consensus,0.0
+rest3,ecg+gsr,2,consensus,0.0
+rest4,ecg+gsr,2,consensus,0.0
+rest5,ecg+gsr,2,consensus,0.0
+rest6,ecg+gsr,2,consensus,0.0
+sing-a-song 1,ecg+gsr,2,consensus,0.0
+Arithmetic,ecg+gsr,3,consensus,0.0
+Cry 7-2,ecg+gsr,3,consensus,0.0
+Eating 3,ecg+gsr,3,consensus,0.0
+Game 4,ecg+gsr,3,consensus,0.0
+Ice Bucket 6,ecg+gsr,3,consensus,0.0
+Prepare Speech,ecg+gsr,3,consensus,0.0
+Social Conversation 5,ecg+gsr,3,consensus,0.0
+Speech,ecg+gsr,3,consensus,0.0
+Stroop 2,ecg+gsr,3,consensus,0.0
+rest1,ecg+gsr,3,consensus,0.0
+rest2,ecg+gsr,3,consensus,0.0
+rest3,ecg+gsr,3,consensus,0.0
+rest4,ecg+gsr,3,consensus,0.0
+rest5,ecg+gsr,3,consensus,0.0
+rest6,ecg+gsr,3,consensus,0.0
+sing-a-song 1,ecg+gsr,3,consensus,0.0
+Arithmetic,ecg+gsr,4,consensus,0.0
+Cry 7-2,ecg+gsr,4,consensus,0.0
+Eating 3,ecg+gsr,4,consensus,0.0
+Game 4,ecg+gsr,4,consensus,0.0
+Ice Bucket 6,ecg+gsr,4,consensus,0.0
+Prepare Speech,ecg+gsr,4,consensus,0.0
+Social Conversation 5,ecg+gsr,4,consensus,0.0
+Speech,ecg+gsr,4,consensus,0.0
+Stroop 2,ecg+gsr,4,consensus,0.0
+rest1,ecg+gsr,4,consensus,0.0
+rest2,ecg+gsr,4,consensus,0.0
+rest3,ecg+gsr,4,consensus,0.0
+rest4,ecg+gsr,4,consensus,0.0
+rest5,ecg+gsr,4,consensus,0.0
+rest6,ecg+gsr,4,consensus,0.0
+sing-a-song 1,ecg+gsr,4,consensus,0.0
+Arithmetic,ecg+gsr,6,consensus,0.0
+Cry 7-2,ecg+gsr,6,consensus,0.0
+Eating 3,ecg+gsr,6,consensus,0.0
+Game 4,ecg+gsr,6,consensus,0.0
+Ice Bucket 6,ecg+gsr,6,consensus,0.0
+Prepare Speech,ecg+gsr,6,consensus,0.0
+Social Conversation 5,ecg+gsr,6,consensus,0.0
+Speech,ecg+gsr,6,consensus,0.0
+Stroop 2,ecg+gsr,6,consensus,0.0
+rest1,ecg+gsr,6,consensus,0.0
+rest2,ecg+gsr,6,consensus,0.0
+rest3,ecg+gsr,6,consensus,0.0
+rest4,ecg+gsr,6,consensus,0.0
+rest5,ecg+gsr,6,consensus,0.0
+rest6,ecg+gsr,6,consensus,0.0
+sing-a-song 1,ecg+gsr,6,consensus,0.0
+Arithmetic,ecg+gsr,9,consensus,0.0
+Cry 7-2,ecg+gsr,9,consensus,0.0
+Eating 3,ecg+gsr,9,consensus,0.0
+Game 4,ecg+gsr,9,consensus,0.0
+Ice Bucket 6,ecg+gsr,9,consensus,0.0
+Prepare Speech,ecg+gsr,9,consensus,0.0
+Social Conversation 5,ecg+gsr,9,consensus,0.0
+Speech,ecg+gsr,9,consensus,0.0
+Stroop 2,ecg+gsr,9,consensus,0.0
+rest1,ecg+gsr,9,consensus,0.0
+rest2,ecg+gsr,9,consensus,0.0
+rest3,ecg+gsr,9,consensus,0.0
+rest4,ecg+gsr,9,consensus,0.0
+rest5,ecg+gsr,9,consensus,0.0
+rest6,ecg+gsr,9,consensus,0.0
+sing-a-song 1,ecg+gsr,9,consensus,0.0
+Arithmetic,ecg+gsr,11,consensus,0.0
+Cry 7-2,ecg+gsr,11,consensus,0.0
+Eating 3,ecg+gsr,11,consensus,0.0
+Game 4,ecg+gsr,11,consensus,0.0
+Ice Bucket 6,ecg+gsr,11,consensus,0.0
+Prepare Speech,ecg+gsr,11,consensus,0.0
+Social Conversation 5,ecg+gsr,11,consensus,0.0
+Speech,ecg+gsr,11,consensus,0.0
+Stroop 2,ecg+gsr,11,consensus,0.0
+rest1,ecg+gsr,11,consensus,0.0
+rest2,ecg+gsr,11,consensus,0.0
+rest3,ecg+gsr,11,consensus,0.0
+rest4,ecg+gsr,11,consensus,0.0
+rest5,ecg+gsr,11,consensus,0.0
+rest6,ecg+gsr,11,consensus,0.0
+sing-a-song 1,ecg+gsr,11,consensus,0.0
+Arithmetic,ecg+gsr,13,consensus,0.0
+Cry 7-2,ecg+gsr,13,consensus,0.0
+Eating 3,ecg+gsr,13,consensus,0.0
+Game 4,ecg+gsr,13,consensus,0.0
+Ice Bucket 6,ecg+gsr,13,consensus,0.0
+Prepare Speech,ecg+gsr,13,consensus,0.0
+Social Conversation 5,ecg+gsr,13,consensus,0.0
+Speech,ecg+gsr,13,consensus,0.0
+Stroop 2,ecg+gsr,13,consensus,0.0
+rest1,ecg+gsr,13,consensus,0.0
+rest2,ecg+gsr,13,consensus,0.0
+rest3,ecg+gsr,13,consensus,0.0
+rest4,ecg+gsr,13,consensus,0.0
+rest5,ecg+gsr,13,consensus,0.0
+rest6,ecg+gsr,13,consensus,0.0
+sing-a-song 1,ecg+gsr,13,consensus,0.0
+Arithmetic,ecg+gsr,14,consensus,0.5
+Cry 7-2,ecg+gsr,14,consensus,0.80000000000000004
+Eating 3,ecg+gsr,14,consensus,0.0
+Game 4,ecg+gsr,14,consensus,1.0
+Ice Bucket 6,ecg+gsr,14,consensus,0.0
+Prepare Speech,ecg+gsr,14,consensus,0.0
+Social Conversation 5,ecg+gsr,14,consensus,0.0
+Speech,ecg+gsr,14,consensus,0.36363636363636359
+Stroop 2,ecg+gsr,14,consensus,0.0
+rest1,ecg+gsr,14,consensus,0.0
+rest2,ecg+gsr,14,consensus,0.0
+rest3,ecg+gsr,14,consensus,0.0
+rest4,ecg+gsr,14,consensus,0.0
+rest5,ecg+gsr,14,consensus,0.0
+rest6,ecg+gsr,14,consensus,0.0
+sing-a-song 1,ecg+gsr,14,consensus,0.83333333333333326
+Arithmetic,ecg+gsr,15,consensus,0.0
+Cry 7-2,ecg+gsr,15,consensus,0.0
+Eating 3,ecg+gsr,15,consensus,0.0
+Game 4,ecg+gsr,15,consensus,0.0
+Ice Bucket 6,ecg+gsr,15,consensus,0.5
+Prepare Speech,ecg+gsr,15,consensus,0.0
+Social Conversation 5,ecg+gsr,15,consensus,0.0
+Speech,ecg+gsr,15,consensus,0.0
+Stroop 2,ecg+gsr,15,consensus,0.0
+rest1,ecg+gsr,15,consensus,0.0
+rest2,ecg+gsr,15,consensus,0.0
+rest3,ecg+gsr,15,consensus,0.0
+rest4,ecg+gsr,15,consensus,0.0
+rest5,ecg+gsr,15,consensus,0.0
+rest6,ecg+gsr,15,consensus,0.0
+sing-a-song 1,ecg+gsr,15,consensus,0.0
+Arithmetic,ecg+gsr,16,consensus,0.0
+Cry 7-2,ecg+gsr,16,consensus,0.0
+Eating 3,ecg+gsr,16,consensus,0.0
+Game 4,ecg+gsr,16,consensus,0.0
+Ice Bucket 6,ecg+gsr,16,consensus,0.0
+Prepare Speech,ecg+gsr,16,consensus,0.0
+Social Conversation 5,ecg+gsr,16,consensus,0.0
+Speech,ecg+gsr,16,consensus,0.0
+Stroop 2,ecg+gsr,16,consensus,0.0
+rest1,ecg+gsr,16,consensus,0.0
+rest2,ecg+gsr,16,consensus,0.0
+rest3,ecg+gsr,16,consensus,0.0
+rest4,ecg+gsr,16,consensus,0.0
+rest5,ecg+gsr,16,consensus,0.0
+rest6,ecg+gsr,16,consensus,0.0
+sing-a-song 1,ecg+gsr,16,consensus,0.0
+Arithmetic,ecg+gsr,17,consensus,0.0
+Cry 7-2,ecg+gsr,17,consensus,0.0
+Eating 3,ecg+gsr,17,consensus,0.0
+Game 4,ecg+gsr,17,consensus,0.0
+Ice Bucket 6,ecg+gsr,17,consensus,0.0
+Prepare Speech,ecg+gsr,17,consensus,0.0
+Social Conversation 5,ecg+gsr,17,consensus,0.0
+Speech,ecg+gsr,17,consensus,0.0
+Stroop 2,ecg+gsr,17,consensus,0.0
+rest1,ecg+gsr,17,consensus,0.0
+rest2,ecg+gsr,17,consensus,0.0
+rest3,ecg+gsr,17,consensus,0.0
+rest4,ecg+gsr,17,consensus,0.0
+rest5,ecg+gsr,17,consensus,0.0
+rest6,ecg+gsr,17,consensus,0.0
+sing-a-song 1,ecg+gsr,17,consensus,0.0

@@ -1,0 +1,194 @@
+,Questions,Did you experience anything stressful?,How stressed were you feeling?,Did you feel you could not control important things?,Did you feel confident in your ability to handle problems?,Did you feel things are going your way?,Did you feel difficulties piling up so you cannot overcome them?
+2,Eating,0,0,0,5,4,0
+3,Eating,0,0,0,6,6,0
+4,Eating,0,2,0,0,3,1
+6,Eating,0,1,1,4,4,0
+7,Eating,0,0,0,6,6,0
+9,Eating,0,0,4,5,5,0
+11,Eating,0,0,1,4,5,0
+13,Eating,0,3,0,3,0,0
+14,Eating,1,2,4,2,3,0
+15,Eating,0,0,0,4,3,0
+16,Eating,0,1,0,4,3,0
+17,Eating,0,0,0,4,4,0
+2,Game,1,2,3,2,3,1
+3,Game,0,3,2,1,2,5
+4,Game,0,0,0,6,6,0
+6,Game,0,1,2,2,2,0
+7,Game,0,0,0,6,6,0
+9,Game,0,0,6,6,5,0
+11,Game,1,2,4,5,5,1
+13,Game,0,0,0,1,0,1
+14,Game,1,4,1,3,1,1
+15,Game,1,2,2,3,3,1
+16,Game,0,3,3,2,3,2
+17,Game,0,0,0,3,3,0
+13,IceBucket,0,0,0,2,2,0
+14,IceBucket,0,0,4,4,3,0
+15,IceBucket,1,3,1,2,1,2
+16,IceBucket,1,4,3,3,2,0
+17,IceBucket,1,2,0,4,2,0
+2,IceBucket,0,0,4,3,3,0
+3,IceBucket,1,3,0,6,5,0
+4,IceBucket,0,1,1,0,1,5
+6,IceBucket,0,2,3,4,2,0
+7,IceBucket,1,3,1,6,6,0
+9,IceBucket,0,1,4,4,4,0
+11,IceBucket,1,4,5,1,1,5
+13,InfantCrying,1,6,3,0,0,0
+14,InfantCrying,1,6,0,1,4,3
+15,InfantCrying,1,4,1,2,2,0
+16,InfantCrying,1,4,2,4,2,0
+17,InfantCrying,1,2,1,4,0,0
+2,InfantCrying,1,5,0,0,5,4
+3,InfantCrying,1,5,6,0,0,5
+4,InfantCrying,0,2,0,0,2,0
+6,InfantCrying,1,5,6,0,0,4
+7,InfantCrying,1,4,0,6,6,0
+9,InfantCrying,1,1,5,5,4,0
+11,InfantCrying,1,2,4,3,1,0
+2,rest1,0,0,0,0,4,0
+3,rest1,0,0,0,6,6,0
+4,rest1,0,0,0,6,6,0
+6,rest1,0,0,0,5,5,0
+7,rest1,0,0,0,6,6,0
+9,rest1,0,0,0,4,4,0
+11,rest1,0,0,1,3,5,0
+13,rest1,0,0,0,0,0,0
+14,rest1,0,2,3,3,2,1
+15,rest1,0,0,0,4,4,0
+16,rest1,0,2,3,4,3,0
+17,rest1,0,0,0,3,4,0
+2,rest2,0,0,5,6,0,0
+3,rest2,0,0,0,6,6,0
+4,rest2,0,0,0,6,6,0
+6,rest2,0,0,0,5,6,0
+7,rest2,0,0,0,6,6,0
+9,rest2,0,0,6,6,6,0
+11,rest2,0,0,1,3,5,0
+13,rest2,1,0,0,0,0,0
+14,rest2,1,0,0,2,3,0
+15,rest2,1,0,0,3,3,0
+16,rest2,1,1,2,4,3,0
+17,rest2,0,0,0,4,4,0
+2,rest3,0,0,0,5,4,0
+3,rest3,0,0,0,6,6,0
+4,rest3,0,0,0,2,2,0
+6,rest3,0,0,0,5,5,0
+7,rest3,0,0,0,6,6,0
+9,rest3,0,0,6,5,5,0
+11,rest3,0,0,0,2,5,0
+13,rest3,1,3,0,0,0,0
+14,rest3,0,0,0,3,3,0
+15,rest3,0,0,0,4,3,0
+16,rest3,0,2,1,4,3,0
+17,rest3,0,0,0,4,4,0
+2,rest4,0,0,5,5,5,0
+3,rest4,0,0,0,6,6,0
+4,rest4,0,0,0,4,4,0
+6,rest4,0,0,0,5,5,0
+7,rest4,0,0,0,6,6,0
+9,rest4,0,0,6,6,6,0
+11,rest4,0,0,1,3,3,0
+13,rest4,0,0,0,0,0,0
+14,rest4,0,0,0,4,0,0
+15,rest4,0,0,0,4,4,0
+16,rest4,0,1,1,4,3,0
+17,rest4,0,2,0,4,4,0
+2,rest5,0,0,0,5,5,0
+3,rest5,0,0,0,6,6,0
+4,rest5,0,0,0,2,2,0
+6,rest5,0,2,2,4,2,0
+7,rest5,0,2,1,6,6,0
+9,rest5,0,0,0,6,6,0
+11,rest5,0,0,1,5,5,0
+13,rest5,0,0,0,0,0,0
+14,rest5,0,4,2,2,2,0
+15,rest5,0,0,0,4,4,0
+16,rest5,0,1,0,4,3,0
+17,rest5,0,0,0,3,3,0
+2,rest6,0,0,0,5,5,0
+3,rest6,0,0,0,6,6,0
+4,rest6,0,0,0,1,1,0
+6,rest6,0,1,1,2,2,0
+7,rest6,0,0,0,6,6,0
+9,rest6,0,0,6,6,6,0
+11,rest6,1,1,3,2,4,0
+13,rest6,0,0,0,0,0,0
+14,rest6,1,2,3,2,2,1
+15,rest6,0,0,0,4,4,0
+16,rest6,0,1,0,4,3,0
+17,rest6,0,0,0,4,4,0
+2,Singing,1,5,0,1,0,3
+3,Singing,1,4,2,5,5,2
+4,Singing,1,6,1,6,0,4
+6,Singing,1,4,6,2,0,2
+7,Singing,0,1,1,6,4,0
+9,Singing,1,1,4,5,3,0
+11,Singing,1,5,5,1,1,2
+13,Singing,1,6,4,0,4,4
+14,Singing,1,6,4,0,0,4
+15,Singing,1,4,3,1,1,2
+16,Singing,1,5,4,1,1,3
+17,Singing,1,1,3,2,1.5,0
+13,Social Conv,1,3,2,1,0,1
+14,Social Conv,0,1,4,3,0,0
+15,Social Conv,0,0,0,4,4,0
+16,Social Conv,0,3,3,3,3,0
+17,Social Conv,0,0,0,4,4,0
+2,Social Conv,0,0,0,4,4,0
+3,Social Conv,0,0,0,6,6,0
+4,Social Conv,0,0,0,6,5,0
+6,Social Conv,0,1,0,5,5,0
+7,Social Conv,0,0,0,6,6,0
+9,Social Conv,0,0,4,4,5,0
+11,Social Conv,0,0,1,5,5,0
+1,Stroop,1,2,0,3,3,0
+2,Stroop,1,1,4,4,4,1
+3,Stroop,1,3,5,5,6,1
+4,Stroop,0,1,0,6,6,0
+6,Stroop,0,1,1,4,4,0
+7,Stroop,0,0,0,6,6,0
+9,Stroop,0,0,6,6,6,0
+11,Stroop,1,2,2,3,4,0
+13,Stroop,0,0,3,3,0,2
+14,Stroop,0,1,0,3,3,0
+15,Stroop,0,0,0,3,4,0
+16,Stroop,0,3,1,3,3,0
+17,Stroop,0,0,0,4,3,0
+13,Arithmetic,1,6,4,0,4,4
+14,Arithmetic,1,6,4,1,0,2
+15,Arithmetic,1,6,4,1,1,4
+16,Arithmetic,1,3,1,3,2,1
+17,Arithmetic,0,0,0,4,3,0
+2,Arithmetic,1,5,4,1,1,3
+3,Arithmetic,1,6,6,2,2,5
+4,Arithmetic,0,1,0,4,2,1
+6,Arithmetic,1,3,0,4,4,5
+7,Arithmetic,1,1,4,4,3,2
+9,Arithmetic,1,3,1,5,5,0
+11,Arithmetic,1,6,6,1,0,5
+2,Prepare Speech,1,3,3,3,3,2
+3,Prepare Speech,1,4,2,6,3,2
+4,Prepare Speech,1,3,0,4,4,1
+6,Prepare Speech,0,1,3,2,1,5
+7,Prepare Speech,1,2,0,5,3,2
+9,Prepare Speech,1,2,1,4,3,2
+11,Prepare Speech,1,3,2,5,5,3
+13,Prepare Speech,1,6,4,0,4,4
+14,Prepare Speech,1,4,2,1,2,2
+15,Prepare Speech,1,3,3,2,2,3
+16,Prepare Speech,1,4,2,2,1,2
+17,Prepare Speech,0,2,0,4,3,3
+2,Speech,1,4,5,3,3,3
+3,Speech,1,5,4,3,3,1
+4,Speech,1,6,4,0,1,5
+6,Speech,1,4,3,2,1,3
+7,Speech,1,2,2,4,4,0
+9,Speech,1,4,3,4,2,3
+11,Speech,1,6,6,2,2,5
+13,Speech,1,6,4,0,4,4
+14,Speech,1,5,3,3,3,2
+15,Speech,1,5,3,2,2,4
+16,Speech,1,5,3,1,1,3
+17,Speech,0,2,0,4,2.75,0

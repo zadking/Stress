@@ -174,8 +174,7 @@ with open('resultsofcluster.csv','w') as csvfile:
         for j in range(2,10):
             x,y = clusterdata(cluster,j)
             silhoutteaverages.append(x)
-            for col in df:
-                
+            for col in df: 
                 testwith = list(df[col])
                 n,m,o,r,s,deflabel = cluster_analysis(y,list(ttest['Participant']),list(ttest['activity']),da,testwith,j)
                 if 'consensus' in col:
